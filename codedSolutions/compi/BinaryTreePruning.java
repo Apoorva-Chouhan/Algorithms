@@ -1,6 +1,6 @@
-package datastructures.compi;
+package codedSolutions.compi;
 
-import datastructures.compiUtils.TreeNode;
+import codedSolutions.compiUtils.TreeNode;
 
 public class BinaryTreePruning {
     public static void main(String args[]) {

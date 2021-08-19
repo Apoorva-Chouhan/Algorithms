@@ -1,4 +1,4 @@
-package datastructures.trees;
+package codedSolutions.trees;
 
 /* Class containing left and right child of current
 node and key value*/

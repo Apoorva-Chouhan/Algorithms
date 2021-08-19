@@ -1,6 +1,6 @@
-package datastructures.trees;
+package codedSolutions.trees;
 
-import datastructures.compiUtils.TreeNode;
+import codedSolutions.compiUtils.TreeNode;
 
 public class MaxDepth {
 

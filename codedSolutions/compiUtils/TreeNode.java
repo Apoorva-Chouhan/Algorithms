@@ -1,8 +1,6 @@
-package datastructures.compiUtils;
+package codedSolutions.compiUtils;
 
-import java.sql.SQLOutput;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Queue;
 import java.util.Scanner;
 
