@@ -1,6 +1,6 @@
-package datastructures.compi;
+package codedSolutions.compi;
 
-import datastructures.compiUtils.TreeNode;
+import codedSolutions.compiUtils.TreeNode;
 
 import java.util.Arrays;
 

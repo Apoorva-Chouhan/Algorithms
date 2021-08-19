@@ -1,7 +1,4 @@
-package datastructures.compi;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+package codedSolutions.compi;
 
 public class PartitionDisjoint {
 

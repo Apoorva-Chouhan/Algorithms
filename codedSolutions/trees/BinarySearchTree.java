@@ -1,4 +1,4 @@
-package datastructures.trees;
+package codedSolutions.trees;
 
 import java.util.*;
 

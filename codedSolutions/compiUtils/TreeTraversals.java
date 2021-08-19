@@ -1,4 +1,4 @@
-package datastructures.compiUtils;
+package codedSolutions.compiUtils;
 
 import java.util.ArrayList;
 import java.util.List;
