@@ -2,13 +2,12 @@ package codedSolutions.trees;
 
 import codedSolutions.compiUtils.TreeNode;
 
-public class TreeHeight {
+public class IsTreeBalanced {
     public static void main(String args[]) {
         TreeNode root = new TreeNode(1);
         root = root.createTree();
         int height = getTreeHeight(root);
         System.out.println("isbalnced?  "+ isBalanced(root));
-
     }
 
     static int getTreeHeight(TreeNode root) {
